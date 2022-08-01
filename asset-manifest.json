@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/login-ui/static/css/main.1e706b96.css",
+    "main.js": "/login-ui/static/js/main.8dfc56fa.js",
+    "static/media/background.jpg": "/login-ui/static/media/background.64d07882c05044cc68fd.jpg",
+    "index.html": "/login-ui/index.html",
+    "main.1e706b96.css.map": "/login-ui/static/css/main.1e706b96.css.map",
+    "main.8dfc56fa.js.map": "/login-ui/static/js/main.8dfc56fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e706b96.css",
+    "static/js/main.8dfc56fa.js"
+  ]
+}
